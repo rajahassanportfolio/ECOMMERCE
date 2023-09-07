@@ -1,2 +1,2 @@
-Orebi shopping ecommerce web app
+ecommerce web app
  using tailwind
